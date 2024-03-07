@@ -2,6 +2,8 @@
 
 # See great funny projects
 
+## Python to C translator (online or cli)
+
 ![](https://raw.githubusercontent.com/syeysk/sy_py2c/main/docs/this-py2c-translator.png)
 
 [Py2C](https://github.com/syeysk/sy_py2c) - Py2C translator.
@@ -36,5 +38,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Statistic
 
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syeysk&layout=compact&&theme=tokyonight)
